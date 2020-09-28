@@ -8,7 +8,7 @@ Watch the [Responsive CSS Navbar](https://youtu.be/biOMz4puGt8) episode on on yo
 a variety of modern CSS features like flexbox, media queries, transitions, and filters to build a unique experience 
 with minimal code?
 
--Step 1 - Initial SetupCreate an index.html
+- Step 1 - Initial SetupCreate an index.html
 > We start with a typical HTML layout - just a navigation bar <nav> element with an unordered list <ul> nested inside.  
 > Create a style.css: Start by setting some global variables resetting and overriding the body’s defaults.
 
