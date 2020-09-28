@@ -1,12 +1,11 @@
 # mobile-first-navigation
 ## A Responsive Animated CSS Icon Navbar
 
-Watch the [Responsive CSS Navbar](https://youtu.be/biOMz4puGt8) episode on on youtube
+> Watch the [Responsive CSS Navbar](https://youtu.be/biOMz4puGt8) episode on on youtube
 
-
-> How to build a responsive, animated icon navigation bar using nothing but plain CSS. This project combines 
+> *How to build a responsive, animated icon navigation bar using nothing but plain CSS. This project combines 
 a variety of modern CSS features like flexbox, media queries, transitions, and filters to build a unique experience 
-with minimal code?
+with minimal code?*
 
 - Step 1 - Initial SetupCreate an index.html
 > We start with a typical HTML layout - just a navigation bar <nav> element with an unordered list <ul> nested inside.  
