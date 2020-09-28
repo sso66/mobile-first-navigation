@@ -15,9 +15,9 @@ with minimal code?**
 > The browser’s default scrollbar looks really bad with a fixed vertical navigation bar. Let’s fix that.
 
 - **Step 3 - Position the Navbar**
-> There are several important CSS positioning concepts happening here:
+> There are several important *CSS positioning* concepts happening here:
 
-> The .navbar container is fixed to the left side and takes up 100% of the viewport height.
+> The `.navbar` container is fixed to the left side and takes up 100% of the viewport height.
 > The `.navbar-nav` is a **flex container** with it’s children flowing vertically as a column. 
 > Setting **margin-top: auto** on the last child forces the last icon to the very bottom.
 > The width of the navbar is expanded on hover.
@@ -27,14 +27,14 @@ with minimal code?**
 > using a filter to make them go from gray to their natural pink.
 
 - **Step 5 - Animate the Logo**
-> The logo features an animated rotating arrow icon. This effect is created with a CSS transform to rotate the icon on 
+> The logo features an animated rotating arrow icon. This effect is created with a *CSS transform* to rotate the icon on 
 > hover.
 
 - **Step 6 - Make the Navbar Responsive**
-> Our final challenge is to make the navbar switch to a fixed bottom bar on smaller screens. Mutually-exclusive media 
-> queries are used apply styles based on the screen width. Notice how little code is needed to reposition the navbar for 
+> Our final challenge is to make the navbar switch to a fixed bottom bar on smaller screens. Mutually-exclusive **media 
+> queries** are used apply styles based on the screen width. Notice how little code is needed to reposition the navbar for 
 > small screens - the power of flexbox is its ability to transform columns to rows, or vice-versa.
 
 **Go Further**
 > You may have noticed how the navbar can cycle through themes - learn how to dynamically theme your website with a 
-> little bit of plain JavaScript.
+> little bit of plain JavaScript - `theme.js`.
